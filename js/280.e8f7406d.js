@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrunpod_jesus_rodriguez"]=self["webpackChunkrunpod_jesus_rodriguez"]||[]).push([[280],{8280:function(n,r,u){u.r(r),u.d(r,{default:function(){return p}});var e=u(3396),s=u(7139);const t={class:"btn btn-primary"};function a(n,r,u,a,c,o){return(0,e.wg)(),(0,e.iD)("button",t,[(0,e._)("i",{class:(0,s.C_)(["fa fa-2x",u.icon])},null,2)])}var c={props:{icon:{type:String,default:"fa-plus"}}},o=u(89);const i=(0,o.Z)(c,[["render",a],["__scopeId","data-v-e8b3b4bc"]]);var p=i}}]);
+//# sourceMappingURL=280.e8f7406d.js.map

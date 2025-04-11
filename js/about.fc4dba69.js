@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrunpod_jesus_rodriguez"]=self["webpackChunkrunpod_jesus_rodriguez"]||[]).push([[443],{7381:function(u,n,r){r.r(n),r.d(n,{default:function(){return f}});var e=r(3396);const s={class:"about"},t=(0,e._)("h1",null,"This is an about page",-1),a=[t];function o(u,n){return(0,e.wg)(),(0,e.iD)("div",s,a)}var i=r(89);const c={},d=(0,i.Z)(c,[["render",o]]);var f=d}}]);
+//# sourceMappingURL=about.fc4dba69.js.map
